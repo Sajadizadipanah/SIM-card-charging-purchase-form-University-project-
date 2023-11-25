@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIM-card-charging-purchase-form-University-project", "SIM-card-charging-purchase-form-University-project\SIM-card-charging-purchase-form-University-project.csproj", "{110EBD7A-EC97-4C53-A6D3-AC365963EF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110EBD7A-EC97-4C53-A6D3-AC365963EF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110EBD7A-EC97-4C53-A6D3-AC365963EF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110EBD7A-EC97-4C53-A6D3-AC365963EF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110EBD7A-EC97-4C53-A6D3-AC365963EF41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27468D86-F5D7-42C1-B88C-72D785C627FB}
+	EndGlobalSection
+EndGlobal
