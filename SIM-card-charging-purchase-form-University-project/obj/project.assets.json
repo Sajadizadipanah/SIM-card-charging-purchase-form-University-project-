@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\IzadiPanah\\SIM-card-charging-purchase-form-University-project\\SIM-card-charging-purchase-form-University-project\\SIM-card-charging-purchase-form-University-project.csproj",
+      "projectUniqueName": "E:\\MyProject\\IzadiPanah\\SIM-card-charging-purchase-form-University-project-\\SIM-card-charging-purchase-form-University-project\\SIM-card-charging-purchase-form-University-project.csproj",
       "projectName": "SIM-card-charging-purchase-form-University-project",
-      "projectPath": "E:\\MyProject\\IzadiPanah\\SIM-card-charging-purchase-form-University-project\\SIM-card-charging-purchase-form-University-project\\SIM-card-charging-purchase-form-University-project.csproj",
+      "projectPath": "E:\\MyProject\\IzadiPanah\\SIM-card-charging-purchase-form-University-project-\\SIM-card-charging-purchase-form-University-project\\SIM-card-charging-purchase-form-University-project.csproj",
       "packagesPath": "C:\\Users\\S.F.H\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\IzadiPanah\\SIM-card-charging-purchase-form-University-project\\SIM-card-charging-purchase-form-University-project\\obj\\",
+      "outputPath": "E:\\MyProject\\IzadiPanah\\SIM-card-charging-purchase-form-University-project-\\SIM-card-charging-purchase-form-University-project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S.F.H\\AppData\\Roaming\\NuGet\\NuGet.Config",
